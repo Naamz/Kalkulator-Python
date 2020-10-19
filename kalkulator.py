@@ -47,8 +47,6 @@ while confirm == "y":
 
     if confirm == "t":
         break
-    else:
-        print("Input salah")
 
 # Selesai
 print("Terima Kasih :D")
